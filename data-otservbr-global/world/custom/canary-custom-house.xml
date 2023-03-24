@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="NPC" houseid="1" entryx="52265" entryy="36889" entryz="14" rent="0" townid="0" size="15" />
+	<house name="Montag  #1" houseid="2" entryx="37304" entryy="21903" entryz="14" rent="5000" townid="23" size="59" />
+</houses>
